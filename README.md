@@ -19,9 +19,7 @@
     <a href="https://github.com/dhairyagothi">
       <img src="https://img.shields.io/github/followers/dhairyagothi?logo=github&style=for-the-badge" alt="GitHub followers" />
     </a>
-    <a href="https://twitter.com/YourTwitterHandle">
-      <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=for-the-badge" alt="Twitter Follow" />
-    </a>
+   
   </p>
 
   <!--Line-->
@@ -29,13 +27,10 @@
   
   <h3>Connect with Me 🌐</h3>
   <p>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://www.linkedin.com/in/dhairya-gothi-65945b288/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/YourInstagramHandle" target="_blank">
+    <a href="https://www.instagram.com/dhairyaa__31/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
