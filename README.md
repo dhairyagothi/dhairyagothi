@@ -1,5 +1,9 @@
 <div align="center" style="position: relative;">
 
+![Dhairya gothi bg LinkedIn](https://github.com/user-attachments/assets/24631724-4474-4a7c-a12d-6787726cbccb)
+
+
+
 <!-- Text overlay -->
 <div style="position: relative; padding-top: 250px; z-index: 1;">
   <h1>Hi 👋, I'm Dhairya Gothi</h1>
