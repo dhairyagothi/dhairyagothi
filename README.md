@@ -86,6 +86,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
   
 </div>
+
+<h3>🥉 Certification Badges </h3>
+
+![github-foundations (1)](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
+
+  
+
 <div style="font-style: italic; font-size: 18px; color: #70a1ff; margin-bottom: 20px;">
   🌌 Destiny always demands patience 🌌
 </div>
