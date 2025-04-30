@@ -84,7 +84,11 @@
   
   <!--Line-->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-  
+
+  [![dhairyagothi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dhairyagothi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 </div>
 
 <h3>🥉 Certification Badges </h3>
