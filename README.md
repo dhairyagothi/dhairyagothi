@@ -94,6 +94,11 @@
 <h3>🥉 Certification Badges </h3>
 
 ![github-foundations (1)](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
+<span></span>
+![microsoft-certified-azure-data-fundamentals (2)](https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4)
+
+
+
 
   
 
