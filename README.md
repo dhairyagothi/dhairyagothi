@@ -97,10 +97,16 @@
 <span></span>
 ![microsoft-certified-azure-data-fundamentals (2)](https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
-  
+
 
 <div style="font-style: italic; font-size: 18px; color: #70a1ff; margin-bottom: 20px;">
   🌌 Destiny always demands patience 🌌
