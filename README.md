@@ -96,6 +96,10 @@
 ![github-foundations (1)](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
 <span></span>
 ![microsoft-certified-azure-data-fundamentals (2)](https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4)
+<img width="153" height="253" alt="image" src="https://github.com/user-attachments/assets/e9bb8e2d-4dce-43ed-bae4-fd110be917c6" />
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 <picture>
