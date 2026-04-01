@@ -1,5 +1,7 @@
 <div align="center">
 
+![Dhairya gothi bg LinkedIn](https://github.com/user-attachments/assets/24631724-4474-4a7c-a12d-6787726cbccb)
+
 # Hey, I'm Dhairya Gothi 👋
 ### Frontend Developer • Open Source Enthusiast • Lifelong Learner
 
@@ -13,6 +15,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 ## 🚀 About Me
@@ -22,6 +26,8 @@
 - 💬 Ask me about **JavaScript, React, Next.js, Tailwind, UI performance**
 - ⚡ Fun fact: I love turning ideas into polished interfaces
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 ## 🌐 Connect With Me
@@ -30,6 +36,8 @@
   <a href="https://www.instagram.com/dhairyaa__31/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:dhairyagothi31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -55,23 +63,38 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+---
 ## 📈 GitHub Analytics
 
 <div align="center">
+
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyagothi&theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyagothi&theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyagothi&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyagothi&theme=react" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhairyagothi&theme=react&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhairyagothi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyagothi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=dhairyagothi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhairyagothi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
-</div>
+</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 ---
 
 ## 🧠 Coding Platforms
@@ -82,14 +105,16 @@
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
 ## 🏅 Certifications
-<p>
-  <img src="https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e" alt="GitHub Foundations" width="160" />
-  <img src="https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4" alt="Azure Data Fundamentals" width="160" />
-  <img src="https://github.com/user-attachments/assets/e9bb8e2d-4dce-43ed-bae4-fd110be917c6" alt="Certification" width="160" />
-</p>
+![github-foundations](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
+![microsoft-certified-azure-data-fundamentals](https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4)
+<img width="153" height="253" alt="Certification Badge" src="https://github.com/user-attachments/assets/e9bb8e2d-4dce-43ed-bae4-fd110be917c6" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
@@ -101,14 +126,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-## ✨ Optional Integrations You Can Add Next
-- 🎵 **Spotify Now Playing**: https://github.com/novatorem/novatorem
-- ⏱️ **WakaTime Coding Stats**: https://github.com/athul/waka-readme
-- 🧩 **Holopin Badges**: https://holopin.io
-- 🧠 **GSSoC / OSS badges**: via Shields.io (https://shields.io)
-- 📅 **GitHub Activity Graph**: https://github.com/Ashutosh00710/github-readme-activity-graph
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
