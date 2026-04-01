@@ -1,118 +1,117 @@
-<div align="center" style="position: relative;">
+<div align="center">
 
-![Dhairya gothi bg LinkedIn](https://github.com/user-attachments/assets/24631724-4474-4a7c-a12d-6787726cbccb)
+# Hey, I'm Dhairya Gothi 👋
+### Frontend Developer • Open Source Enthusiast • Lifelong Learner
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+beautiful+and+performant+web+experiences;Exploring+AI+%2B+Web+integration;Open+to+collaboration+on+impactful+projects" alt="Typing animation" />
 
-
-<!-- Text overlay -->
-<div style="position: relative; padding-top: 250px; z-index: 1;">
-  <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Dhairya Gothi</h1>
-  <h3>A passionate frontend developer from India 🚀</h3>
-
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Front-end+Developer;Open-source+Contributor;Lifelong+Learner" alt="Typing animation" />
-  </p>
-
-  <!-- Profile views and social links -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=dhairyagothi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/dhairyagothi">
-      <img src="https://img.shields.io/github/followers/dhairyagothi?logo=github&style=for-the-badge" alt="GitHub followers" />
-    </a>
-  </p>
-
-  <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-  
-  <h3>Connect with Me 🌐</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/dhairya-gothi-65945b288/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/dhairyaa__31/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </p>
-  
-  <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-  <h3>🚀 Languages & Tools</h3>
-  <p>
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
-    <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="express"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react"/></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/></a>
-    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss"/></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<p>
+  <a href="https://komarev.com/ghpvc/?username=dhairyagothi&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=dhairyagothi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
+  <a href="https://github.com/dhairyagothi?tab=followers"><img src="https://img.shields.io/github/followers/dhairyagothi?logo=github&style=for-the-badge" alt="GitHub followers" /></a>
+  <a href="https://github.com/dhairyagothi?tab=repositories"><img src="https://img.shields.io/github/stars/dhairyagothi?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="Total stars" /></a>
 </p>
 
-  <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-  <h3>🌟 GitHub Trophies</h3>
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-trophies.vercel.app/?username=dhairyagothi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-    </a>
-  </p>
-  
-  <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-  
-  <h3>📊 GitHub Stats</h3>
-  <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyagothi&theme=react" alt="Profile Details" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyagothi&theme=react" alt="Repos per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyagothi&theme=react" alt="Most Commit Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyagothi&theme=react" alt="Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhairyagothi&theme=react&utcOffset=8" alt="Productive Time" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyagothi&theme=radical" alt="GitHub Streak" />
-  </p>
-  
-  <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-  [![dhairyagothi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=dhairyagothi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
-
-  <!--Line-->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 </div>
 
-<h3>🥉 Certification Badges </h3>
+---
 
-![github-foundations (1)](https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e)
-<span></span>
-![microsoft-certified-azure-data-fundamentals (2)](https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4)
-<img width="153" height="253" alt="image" src="https://github.com/user-attachments/assets/e9bb8e2d-4dce-43ed-bae4-fd110be917c6" />
+## 🚀 About Me
+- 🔭 Currently building modern web experiences with **React / Next.js**
+- 🌱 Learning more about **AI-powered apps, backend patterns, and system design**
+- 👯 Open to collaborating on **frontend, full-stack, and community projects**
+- 💬 Ask me about **JavaScript, React, Next.js, Tailwind, UI performance**
+- ⚡ Fun fact: I love turning ideas into polished interfaces
 
+---
 
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhairya-gothi-65945b288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/dhairyaa__31/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:dhairyagothi31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+## 🧰 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" />
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhairyagothi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyagothi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhairyagothi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhairyagothi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+</div>
+
+---
+
+## 🧠 Coding Platforms
+
+<div align="center">
+  <a href="https://leetcode.com/u/dhairyagothi/">
+    <img src="https://leetcard.jacoblin.cool/dhairyagothi?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+  </a>
+</div>
+
+---
+
+## 🏅 Certifications
+<p>
+  <img src="https://github.com/user-attachments/assets/657dd129-c3d3-4871-8d05-3567f729729e" alt="GitHub Foundations" width="160" />
+  <img src="https://github.com/user-attachments/assets/c6494674-9157-4273-a4c9-acfae8386ee4" alt="Azure Data Fundamentals" width="160" />
+  <img src="https://github.com/user-attachments/assets/e9bb8e2d-4dce-43ed-bae4-fd110be917c6" alt="Certification" width="160" />
+</p>
+
+---
+
+## 🕹️ Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
+## ✨ Optional Integrations You Can Add Next
+- 🎵 **Spotify Now Playing**: https://github.com/novatorem/novatorem
+- ⏱️ **WakaTime Coding Stats**: https://github.com/athul/waka-readme
+- 🧩 **Holopin Badges**: https://holopin.io
+- 🧠 **GSSoC / OSS badges**: via Shields.io (https://shields.io)
+- 📅 **GitHub Activity Graph**: https://github.com/Ashutosh00710/github-readme-activity-graph
 
+---
 
-
-<div style="font-style: italic; font-size: 18px; color: #70a1ff; margin-bottom: 20px;">
-  🌌 Destiny always demands patience 🌌
-</div>
+<div align="center">
+  <i>🌌 Destiny always demands patience 🌌</i>
 </div>
