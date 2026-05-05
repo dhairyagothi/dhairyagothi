@@ -80,8 +80,8 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhairyagothi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyagothi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhairyagothi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -91,7 +91,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dhairyagothi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhairyagothi&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 </div>
 
