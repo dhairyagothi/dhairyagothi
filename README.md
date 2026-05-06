@@ -79,13 +79,13 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhairyagothi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=dhairyagothi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhairyagothi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhairyagothi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
