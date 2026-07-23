@@ -20,5 +20,26 @@ jobs:
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Tells the action to ONLY build your required "react" layout
+          THEME: react
         with:
           username: dhairyagothi
+          output_dir: .github/summary_output
+          utcOffset: 8
+
+      # Automatically moves files and strips away all empty folders
+      - name: Clean up extra subfolders
+        run: |
+          if [ -d ".github/summary_output/react" ]; then
+            mv .github/summary_output/react/* .github/summary_output/
+            rm -rf .github/summary_output/react
+          fi
+          
+      # Explicitly commits only the target files back to your repository
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .github/summary_output/*.svg
+          git commit -m "Update profile summary cards" || exit 0
+          git push

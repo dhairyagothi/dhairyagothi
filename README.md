@@ -71,12 +71,13 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyagothi&theme=react" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyagothi&theme=react" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyagothi&theme=react" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyagothi&theme=react" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhairyagothi&theme=react&utcOffset=8" alt="Productive Time" />
+  <img src="./.github/summary_output/0-profile-details.svg" alt="Profile Details" />
+  <img src="./.github/summary_output/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./.github/summary_output/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="./.github/summary_output/3-stats.svg" alt="Stats" />
+  <img src="./.github/summary_output/4-productive-time.svg" alt="Productive Time" />
 </p>
+
 
 <p align="center">
    <img height="180em" src="https://github-readmeapp.vercel.app/api?username=dhairyagothi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
